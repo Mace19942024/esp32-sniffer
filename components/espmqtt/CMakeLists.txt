@@ -4,5 +4,5 @@ set(COMPONENT_SRCDIRS ". lib")
 
 set(COMPONENT_REQUIRES lwip nghttp mbedtls)
 
-register_component()
+
 
